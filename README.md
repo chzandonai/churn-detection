@@ -1,1 +1,1 @@
-# Kaggle-_SpaceTitanic
+# Churn detection Project
