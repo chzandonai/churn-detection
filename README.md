@@ -18,7 +18,7 @@ Também serão propostas soluções para reduzir a taxa de churn, como melhorar 
 ### Análise Exploratória dos Dados
 
 Do Banco de dados:  
-<img src="../figs/table_plotly.png" alt="Variáveis do Banco de dados" title="Variáveis do Banco de dados" width="500" height="500" />
+<img src="https://github.com/chzandonai/churn-detection/raw/main/figs/table_plotly.png" alt="Variáveis do Banco de dados" title="Variáveis do Banco de dados" width="500" height="500" />
 
 O banco de dados apresenta variáveis de assinatura ou não de serviços, bem como do tempo que o cliente está na empresa e o valor de seus gastos. Há ainda informações demográficas e de pagamentos.
 Segundo o Dataset a empresa pedreu nesse período um total de R$ 139130.85 em assinaturas que deixaram a empresa.
